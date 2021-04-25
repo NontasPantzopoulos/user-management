@@ -12,7 +12,21 @@
     <artifactId>user-management</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>user-management</name>
-    <description>Demo project for Spring Boot</description>
+    <description>a Spring Boot Application in which one can add edit delete users from a database.</description>
+    <developers>
+        <developer>
+            <id>pantzop</id>
+            <name>Nontas Pantzopoulos</name>
+            <email>pantzop@gmail.com</email>
+            <url>https://github.com/NontasPantzopoulos</url>
+            <organization>Freelancer</organization>
+            <roles>
+                <role>architect</role>
+                <role>developer</role>
+            </roles>
+            <timezone>Europe/Athens</timezone>
+        </developer>
+    </developers>
     <properties>
         <java.version>1.8</java.version>
     </properties>
